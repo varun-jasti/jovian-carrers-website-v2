@@ -1,0 +1,20 @@
+{
+  "files": {
+    "templates/home.html": [
+      {
+        "id": "76189e3d-fd76-4e8e-b478-302f73f849c1",
+        "line": 8,
+        "version": 1669,
+        "index": 226
+      }
+    ],
+    "templates/jobitem.html": [
+      {
+        "id": "7662328a-a63c-47de-b0b7-2f6b22ef732c",
+        "line": 13,
+        "version": 140,
+        "index": 332
+      }
+    ]
+  }
+}
